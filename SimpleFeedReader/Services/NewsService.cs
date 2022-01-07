@@ -1,13 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Xml;
-using AutoMapper;
-using Microsoft.SyndicationFeed;
-using Microsoft.SyndicationFeed.Rss;
-using SimpleFeedReader.ViewModels;
-
+﻿
 namespace SimpleFeedReader.Services;
 public class NewsService
 {

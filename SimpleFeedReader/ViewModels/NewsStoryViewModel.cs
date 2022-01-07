@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿
 namespace SimpleFeedReader.ViewModels;
 public class NewsStoryViewModel
 {
